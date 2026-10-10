@@ -63,6 +63,8 @@ Silinder warna Kuning, volume = 1538.6
 
 Dokumentasi hasil eksekusi program:
 
+![Screenshot](hasil.png)
+
 
 
 Project ini dibuat sebagai dokumentasi latihan penerapan konsep OOP dalam Java.
